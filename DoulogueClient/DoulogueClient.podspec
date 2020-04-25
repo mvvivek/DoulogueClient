@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
   spec.version      = "1.0.0"
   spec.summary      = "DoulogueClient framework"
   spec.description  = "DoulogueClient framework csn be used to establish video and audio call"
-  spec.homepage     = "https://github.com/mvvivek/DoulogueClient.git"
+  spec.homepage     = "https://github.com/mvvivek/DoulogueClient"
   spec.license      = "MIT"
   spec.author       = "vivek"
   spec.platform     = :ios, "11.0"
