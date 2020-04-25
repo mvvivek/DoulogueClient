@@ -8,14 +8,14 @@
 
 Pod::Spec.new do |spec|
   spec.name         = "DoulogueClient"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "DoulogueClient framework"
   spec.description  = "DoulogueClient framework csn be used to establish video and audio call"
   spec.homepage     = "https://github.com/mvvivek/DoulogueClient"
   spec.license      = "MIT"
   spec.author       = "vivek"
   spec.platform     = :ios, "11.0"
-  spec.source       = { :git => "https://github.com/mvvivek/DoulogueClient.git", :tag => "1.0.0" }
+  spec.source       = { :git => "https://github.com/mvvivek/DoulogueClient.git", :tag => "1.0.1" }
   spec.source_files  = "DoulogueClient/**/*"
 
 
