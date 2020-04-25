@@ -1,0 +1,16 @@
+PODS:
+  - DoulogueClient (1.0.0)
+
+DEPENDENCIES:
+  - DoulogueClient (from `../DoulogueClient/`)
+
+EXTERNAL SOURCES:
+  DoulogueClient:
+    :path: "../DoulogueClient/"
+
+SPEC CHECKSUMS:
+  DoulogueClient: cb99afcba7db79c2f11395f5c0ee06f1e759db01
+
+PODFILE CHECKSUM: e2ef7877ccaf94987548635d2199e40d9015454a
+
+COCOAPODS: 1.8.4

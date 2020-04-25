@@ -1,0 +1,6 @@
+framework module DoulogueClient {
+  umbrella header "DoulogueClient-umbrella.h"
+
+  export *
+  module * { export * }
+}
