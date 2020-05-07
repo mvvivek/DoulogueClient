@@ -17,7 +17,9 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "11.0"
   spec.source       = { :git => "https://github.com/mvvivek/DoulogueClient.git", :tag => "1.0.1" }
   spec.source_files  = "DoulogueClient/**/*"
+  spec.dependency 'WebRTC'
 
+pod "WebRTC"
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
